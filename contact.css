@@ -293,12 +293,14 @@ section p:hover{  text-decoration: underline;}
         padding-top: 6px;
         font-size: 20px;
     }
-.contactimg{
-    padding:60px 0px 0px 10px; 
-}
+  .contact-page{width: 150%;
+min-height:300vh}
   .overall{
     width:100%;
  
+}
+.contactimg{
+    padding:60px 0px 0px 10px; 
 }
 main{flex-direction: column-reverse;
 
