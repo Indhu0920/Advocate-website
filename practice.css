@@ -203,6 +203,7 @@ padding:5px}
         flex-direction: column;
         min-height: 4vh;
         transition: all 1s;
+        text-align: center;
     }
 
     .nav-content a {
@@ -210,7 +211,10 @@ padding:5px}
     }
 
 
-.content{font-size: 10px;}
+.content{font-size: 15px;}
+.content>h3{
+    font-size: 20px;
+}
     .nav-content button {
         padding: 15px;
     }
