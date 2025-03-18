@@ -201,7 +201,9 @@ span {
 
    
     .nav-content {
-        background-color: rgb(239, 205, 144);
+        background-color:black;
+        color:white;
+        text-align: center;
         position: fixed;
         top: 47px;
         width: 100%;
