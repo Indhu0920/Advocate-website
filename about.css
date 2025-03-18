@@ -192,7 +192,7 @@ i+div>h4{padding-bottom:20px}
 h4{color:black}
 /* our team */
 
-.team{height:200vh;
+.team{
     background-color: rgb(254, 242, 227);
     padding:30px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
@@ -308,14 +308,14 @@ left:0px;
         font-size: 20px;
     }
     .about-page{width:100%;
-    min-height:600vh}
+}
     .abtimg{padding:60px 0px 0px 10px; 
         
     }
-    .feature{min-height: 235vh;}
+
   
     .team{width:100%;
-    min-height:630vh}
+   }
 }
 
 /* tablet screen */
@@ -329,8 +329,7 @@ left:0px;
         font-size: 15px;
     }
     .about-page{width:100%;
-        min-height:580vh}
-    .feature{min-height: 170vh;}
-   .team{min-height:350vh}
+}
+    
 
 }
