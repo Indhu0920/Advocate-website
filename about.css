@@ -73,7 +73,7 @@ label {
 
 }
 .about-page{
-    min-height:300vh;
+ 
     /* background-color: bisque; */
 }
 
@@ -105,7 +105,7 @@ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans 
 
 /* features */
 .feature{
-    height:90vh;
+    min-height:90vh;
     background-color: azure;
     padding:30px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
@@ -126,6 +126,7 @@ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans 
 
 
 section {
+  
     padding-top: 60px;
     display:flex;
     justify-content: center;
